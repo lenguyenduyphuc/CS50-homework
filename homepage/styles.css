@@ -1,0 +1,25 @@
+h1 {
+    font-size: 36px;
+    color: black;
+    text-align: center;
+}
+
+.navbar{
+    background-color: black;
+    padding: 30px;
+    border: round;
+}
+
+#navbarNav{
+    text-align: center;
+}
+
+.navbar a{
+    margin: 20px 20px 20px 20px;
+    text-decoration: none;
+    color: black;
+}
+
+.navbar a: hover{
+    color: gray;
+}

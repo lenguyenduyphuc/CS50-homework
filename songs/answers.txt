@@ -1,0 +1,6 @@
+1,
+    'Based on the top 100 songs from 2018, the listener's audio aura can be characterized by moderate to high energy, positive valence, and high danceability. This suggests that the listener tends to prefer upbeat, happy, and danceable music, reflecting an energetic and joyful mood over the year.'
+2,
+    'Calculating the audio aura solely based on the average energy, valence, and danceability may not fully capture the listener's emotional and psychological state. This method overlooks factors such as lyrical content, genre diversity, listening context, and temporal changes in mood throughout the year. A more representative approach could involve incorporating additional audio features like tempo, acousticness, and instrumentalness, as well as considering the variance and distribution of these metrics. Additionally, integrating user-specific data such as listening times, playlists, and contextual activities can provide a more nuanced and accurate reflection of the listener's true audio aura.'
+
+
